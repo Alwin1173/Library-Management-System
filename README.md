@@ -1,6 +1,6 @@
-# Simple Library Management System
+# Library Management System
 
-A minimal Flask-based web application to **add** and **view** books in a library, using SQLite for storage.
+A minimal Flask-based web application of Library Management System to **add** and **view** books in a library, using SQLite for storage and incorporating MVC Architecture and REST API Endpoints.
 
 ![image](https://github.com/user-attachments/assets/3058fa26-29c6-43e4-a9b7-fc1a869f32ab)
 
